@@ -1,0 +1,11 @@
+.box{
+    /* background-image: url(https://avatars.mds.yandex.net/get-mpic/4032259/img_id1020468524950194956.jpeg/orig); */
+    /* background-color:rgb(100, 38, 48); */
+    /* background: linear-gradient( green,blue,purple); */
+    background: linear-gradient(purple,skyblue,red),url(https://avatars.mds.yandex.net/get-mpic/4032259/img_id1020468524950194956.jpeg/orig);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-blend-mode:multiply;
+    /* multiple color murge karva img no tone change kARVA background-blend-mode use tae  */
+}

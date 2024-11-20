@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+}
+p{
+    color: blueviolet;
+    font-weight: 100;
+    font-family: "Playwrite GB S", serif;
+    /* font-family: "Danfo", serif; */
+}

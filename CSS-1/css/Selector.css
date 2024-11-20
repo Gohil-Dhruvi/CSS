@@ -1,0 +1,45 @@
+*{
+  box-sizing:border-box;
+  padding:0;
+  margin:0;
+}
+
+div p{
+	color:red;
+    font-size:40px;
+    background-color:black;	
+}
+
+h1, a, span ,h2 ,h3 ,h5{
+    color:blue;
+    background-color:green;		
+}
+
+h4:first-letter{
+	color:#FC8F54;
+	font-size:100px;
+}
+
+.line:first-line{
+	color:#AA5486;
+	font-size:60px;
+}
+ul li:first-child{
+	color:#B6A28E;
+	font-size:60px;
+}
+
+ul li:last-child{
+	color:#DCE4C9;
+	font-size:40px;
+}
+
+ul li:nth-child(2n+2){
+	color:pink;
+	font-size:20px;
+}
+
+::selection{
+	background-color:#3C552D;
+	color:#A6AEBF;
+}

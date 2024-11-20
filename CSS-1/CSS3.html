@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+ <title>css3</title>
+ <style>
+    *{
+	  padding:0px;
+	  margin:0px;
+	  box-sizing:border-box;
+	}
+	.box{
+	  width:200px;
+	  height:200px;
+	  background-color:#432E54;
+	  transform:translateX(500px) translateY(100px);
+	}
+	.box1{
+	  width:100px;
+	  height:100px;
+	  background-color:#AE445A;
+	  transform: translateX(250px) skewX(50deg) skewY(50deg);
+	}
+	.box2{
+	  width:200px;
+	  height:200px;
+	  background-color:#1A1A1D;
+	  transform:translateY(100px)translateX(100px)  scaleX(1.5) scaleY(1.7);
+	}
+	.box4{
+	  width:200px;
+	  height:200px;
+	  background-color:#FF4545;
+	  transform:translateY(100px)translateX(500px) rotateX(120deg) rotateY(360deg) ;
+	}
+	.main{
+	  perspective:1500px;
+	}
+ </style>
+</head>
+
+<body>
+   
+   <div class="box"></div>
+   <div class="box1"></div>
+   <div class="box2"></div>
+   <div class="main">
+    <div class="box4"></div>
+   </div>
+
+</body>
+
+</html>

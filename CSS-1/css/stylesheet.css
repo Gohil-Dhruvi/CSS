@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Playwrite GB S';
+    src: url('PlaywriteGBS-ExtraLightItalic.woff2') format('woff2'),
+        url('PlaywriteGBS-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playwrite GB S';
+    src: url('PlaywriteGBS-Italic.woff2') format('woff2'),
+        url('PlaywriteGBS-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playwrite GB S';
+    src: url('PlaywriteGBS-ExtraLight.woff2') format('woff2'),
+        url('PlaywriteGBS-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playwrite GB S';
+    src: url('PlaywriteGBS-Regular.woff2') format('woff2'),
+        url('PlaywriteGBS-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playwrite GB S';
+    src: url('PlaywriteGBS-LightItalic.woff2') format('woff2'),
+        url('PlaywriteGBS-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playwrite GB S';
+    src: url('PlaywriteGBS-ThinItalic.woff2') format('woff2'),
+        url('PlaywriteGBS-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playwrite GB S';
+    src: url('PlaywriteGBS-Light.woff2') format('woff2'),
+        url('PlaywriteGBS-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playwrite GB S';
+    src: url('PlaywriteGBS-Thin.woff2') format('woff2'),
+        url('PlaywriteGBS-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
